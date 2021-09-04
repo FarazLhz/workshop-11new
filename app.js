@@ -71,3 +71,6 @@ app.post('/upload', (req, res) => {
 const port = 2000;
 
 app.listen(port, () => console.log(`Server started on port ${port}`));
+
+
+//In index.ejs UI is created for uploading file
